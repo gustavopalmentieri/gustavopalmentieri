@@ -4,4 +4,4 @@
 
 
 
-"**Descanse no final, não no meio**" - *Kobe Bryant 🏀*
+*"Descanse no final, não no meio"* - *Kobe Bryant 🏀*
