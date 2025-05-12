@@ -1,6 +1,8 @@
 👨🏽‍💻 | Gustavo Jesus Palmentieri
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor em Formação`**
+
+.
     </a> 
     <a href="https://github.com/gustavopalmentieri?tab=repositories&sort=stargazers">
         <img 
@@ -31,6 +33,24 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
 />
 
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
 <br/>
 <br/>
 
@@ -49,10 +69,11 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopalmentieri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
 
+## 
 
 *"Descanse no final, não no meio"* - *Kobe Bryant 🏀*
