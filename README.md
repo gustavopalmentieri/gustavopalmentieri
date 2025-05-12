@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em Formação`**
 
-Inicei meus estudo no ensino superior no seguinte ano de 2025. Através do curso de Análise e Desenvolvimento de Sistemas, estou buscando evoluir e aflorar meu lado como desenvolvedor - *Full Stack* - Utilizo linguagem *C*, *C++* para desenvolver meus projetos pessoais nos estudos e exercícios acadêmicos. Irei iniciar tanto dentro da universidade como fora dela em outras linguagens como: *Python*, *Java*, *HTML* e entre outras que possam agregar no meu desenvolvimento como um *Desenvolvedor de Software*. Busco também compreender um pouco mais como funciona o desenvolvimento de uma *IA* e suas vertentes. Para o meu futuro quero realizar e estar dentro de projetos que possam fazer algum diferencial na sociedade, desde a resolução de problemas a agilização de algo e com isso através de estudos, networking, projetos pessoais e em equipe e principalmente trabalhos em uma organização possam ajudar na minha evolução como profissional e chegar ao meu ápice como *Desenvolvedor de Software*.
+Inicei meus estudos no ensino superior no seguinte ano de 2025, através do curso de Análise e Desenvolvimento de Sistemas. Estou buscando evoluir e aflorar meu lado como desenvolvedor - *Full Stack* - Utilizo linguagem *C*, *C++* para desenvolver meus projetos pessoais nos estudos e exercícios acadêmicos. Irei iniciar tanto dentro da universidade como fora dela em outras linguagens como: *Python*, *Java*, *HTML* e entre outras que possam agregar no meu desenvolvimento como um *Desenvolvedor de Software - Full Stack*. Busco também compreender um pouco mais como funciona o desenvolvimento de uma *IA* e suas vertentes. Para o meu futuro quero realizar e estar dentro de projetos que possam fazer algum diferencial na sociedade, desde a resolução de problemas a agilização de algo e com isso através de estudos, networking, projetos pessoais e em equipe e principalmente trabalhos em uma organização que possam ajudar na minha evolução como profissional e chegar ao meu ápice como *Desenvolvedor de Software*.
 
 <p>
     </a> 
@@ -65,12 +65,18 @@ Inicei meus estudo no ensino superior no seguinte ano de 2025. Através do curso
 <br/>
 <br/>
 
+---
+
+### 🥇 | Inspiração
+
+"*Descanse no final, não no meio.*" - **Kobe Bryant** 🏀
+
+---
+
 ### 📊 | Estatísticas
-<p>
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="180" 
+      height="130" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavopalmentieri&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />    
-</p>
+  />   
