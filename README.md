@@ -3,8 +3,6 @@
 **`Desenvolvedor em Formação`**
 
 Inicei meus estudo no ensino superior no seguinte ano de 2025. Através do curso de Análise e Desenvolvimento de Sistemas, estou buscando evoluir e aflorar meu lado como desenvolvedor - *Full Stack* - Utilizo linguagem *C*, *C++* para desenvolver meus projetos pessoais nos estudos e exercícios acadêmicos. Irei iniciar tanto dentro da universidade como fora dela em outras linguagens como: *Python*, *Java*, *HTML* e entre outras que possam agregar no meu desenvolvimento como um *Desenvolvedor de Softaware*. Busco também compreender um pouco mais como funciona o desenvolvimento de uma *IA* e suas vertentes. Para o meu futuro quero realizar e estar dentro de projetos que possam fazer algum diferencial na sociedade, desde a resolução de problemas a agilização de algo e com isso através de estudos, networking, projetos pessoais e em equipe e principalmente trabalhos em uma organização possam ajudar na minha evolução como profissional e chegar ao meu ápice como *Desenvolvedor de Software*.
-
-##📈
     </a> 
     <a href="https://github.com/gustavopalmentieri?tab=repositories&sort=stargazers">
         <img 
@@ -41,7 +39,7 @@ Inicei meus estudo no ensino superior no seguinte ano de 2025. Através do curso
     title="C++"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"       
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"     
 />
 
 <img 
