@@ -11,3 +11,37 @@ Nome do projeto	Explique em uma frase	C++
 Nome do projeto	Explique em uma frase	Python
 📈 Minha atividade
 <p align="center"> <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopalmentieri&bg_color=0D1117&color=FFFFFF&line=39D353&point=FFFFFF&area=true&area_color=39D353&hide_border=true" alt="Gráfico de atividade"/> </p> <p align="center"> <img height="165" src="https://streak-stats.demolab.com/?user=gustavopalmentieri&background=0D1117&ring=39D353&fire=39D353&currStreakLabel=39D353&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/> </p> <!-- ===== COBRINHA ANIMADA (precisa do arquivo snake.yml) ===== --> <p align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake.svg"/> <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/> </picture> </p> <!-- ===== RODAPÉ ANIMADO ===== --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:0E4429,100:0D1117&height=120&section=footer&animation=twinkling"/>
+
+name: Gerar cobrinha
+ 
+on:
+  schedule:
+    - cron: "0 0 * * *"   # roda todo dia
+  workflow_dispatch:       # permite rodar na mão
+  push:
+    branches:
+      - main
+ 
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Gerar a animação
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+ 
+      - name: Enviar para a branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
