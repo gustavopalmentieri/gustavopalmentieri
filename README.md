@@ -37,7 +37,6 @@
 
 ---
 
-## 📈 Minha atividade
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopalmentieri&bg_color=0D1117&color=FFFFFF&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Gráfico de atividade"/>
