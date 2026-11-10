@@ -1,18 +1,18 @@
+<!-- ===== TÍTULO DIGITANDO ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&width=500&height=50&lines=Data+Engineer" alt="Data Engineer"/>
+</p>
+
 <!-- ===== BANNER ANIMADO (arquivo banner.svg, na mesma pasta do README) ===== -->
 <p align="center">
   <img width="100%" src="./banner.svg" alt="Setup com LED roxo mostrando as informações do Gustavo no monitor"/>
 </p>
 
-<!-- ===== TEXTO DIGITANDO ===== -->
+<!-- ===== CONTATOS (botões roxo fosco brilhante: arquivos botao-linkedin.svg e botao-gmail.svg) ===== -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=A855F7&center=true&vCenter=true&width=560&lines=Ol%C3%A1%2C+eu+sou+o+Gustavo!+%F0%9F%91%8B;Programo+em+C+e+C%2B%2B;Estudando+Python+e+SQL;Rumo+%C3%A0+%C3%A1rea+de+Dados+%F0%9F%93%8A" alt="Texto animado"/>
-</p>
-
-<!-- ===== CONTATOS ===== -->
-<p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://komarev.com/ghpvc/?username=gustavopalmentieri&label=Visitas&color=A855F7&style=for-the-badge" alt="Visitas no perfil"/>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img height="34" src="./botao-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
+  <img height="34" src="https://komarev.com/ghpvc/?username=gustavopalmentieri&label=Visitas&color=4C2A7A&style=for-the-badge" alt="Visitas no perfil"/>
 </p>
 
 ---
