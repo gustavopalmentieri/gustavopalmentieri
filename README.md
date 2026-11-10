@@ -10,27 +10,63 @@
 
 <!-- ===== CONTATOS (botões roxo fosco brilhante: arquivos botao-linkedin.svg e botao-gmail.svg) ===== -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-jesus-palmentieri/"><img height="34" src="./botao-linkedin.svg" alt="LinkedIn"/></a>
-  <a href="mailto:gustavoo.palmentieri@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
-  <img height="34" src="https://komarev.com/ghpvc/?username=gustavopalmentieri&label=Visitas&color=4C2A7A&style=for-the-badge" alt="Visitas no perfil"/>
-</p>
-
-
-## STACKS
-
-<p align="center"><b>Uso hoje</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,git,github,vscode&theme=dark" alt="Tecnologias que uso"/>
-</p>
-
-<p align="center"><b>Estudando</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,js,html,css&theme=dark" alt="Tecnologias que estou estudando"/>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img height="34" src="./botao-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
 </p>
 
 ---
 
-## PROJECTS
+## 💻 Sobre mim
+
+<!-- ===== TERMINAL ANIMADO ===== -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1500&pause=300&color=A855F7&background=0D1117FF&center=false&vCenter=false&multiline=true&repeat=false&width=620&height=300&lines=gustavo%40dev%3A~%24+.%2Fsobre_mim;----------------------------------;Nome%3A+Gustavo+Palmentieri;Curso%3A+ADS+%28desde+2025%29;Stack%3A+Python%2C+C%2C+JavaScript%2C+Node.js;Web%3A+HTML+e+CSS+%7C+Dados%3A+SQL%2C+SQLite;Tools%3A+Git%2C+GitHub%2C+Jira%2C+Claude;%C3%81gil%3A+Kanban+e+Scrum;Foco%3A+Data+%26+Software+Engineering;Status%3A+em+busca+da+1%C2%AA+oportunidade" alt="Terminal animado"/>
+</p>
+
+---
+
+<!-- ===== TÍTULO STACKS (arquivo titulo-stacks.svg) ===== -->
+<img height="38" src="./titulo-stacks.svg" alt="STACKS"/>
+
+<!-- ===== STACKS: cada ícone é um arquivo da pasta stacks/ =====
+     Para trocar para o cromado, troque "./stacks/" por "./stacks-cromado/".
+     Para mudar a ordem, mova as linhas <img>. Para remover, apague a linha. -->
+
+<!-- Linguagens e Web -->
+<p align="center">
+  <img width="52" src="./stacks/python.svg" alt="Python" title="Python"/>
+  <img width="52" src="./stacks/c.svg" alt="C" title="C"/>
+  <img width="52" src="./stacks/javascript.svg" alt="JavaScript" title="JavaScript"/>
+  <img width="52" src="./stacks/nodejs.svg" alt="Node.js" title="Node.js"/>
+  <img width="52" src="./stacks/html.svg" alt="HTML" title="HTML"/>
+  <img width="52" src="./stacks/css.svg" alt="CSS" title="CSS"/>
+</p>
+
+<!-- Dados -->
+<p align="center">
+  <img width="52" src="./stacks/sql.svg" alt="SQL" title="SQL"/>
+  <img width="52" src="./stacks/sqlite.svg" alt="SQLite" title="SQLite"/>
+</p>
+
+<!-- Ferramentas -->
+<p align="center">
+  <img width="52" src="./stacks/git.svg" alt="Git" title="Git"/>
+  <img width="52" src="./stacks/github.svg" alt="GitHub" title="GitHub"/>
+  <img width="52" src="./stacks/vscode.svg" alt="VS Code" title="VS Code"/>
+  <img width="52" src="./stacks/claude.svg" alt="Claude" title="Claude"/>
+</p>
+
+<!-- Gestão e metodologias ágeis -->
+<p align="center">
+  <img width="52" src="./stacks/jira.svg" alt="Jira" title="Jira"/>
+  <img width="52" src="./stacks/kanban.svg" alt="Kanban" title="Kanban"/>
+  <img width="52" src="./stacks/scrum.svg" alt="Scrum" title="Scrum"/>
+</p>
+
+---
+
+<!-- ===== TÍTULO PROJECTS (arquivo titulo-projects.svg) ===== -->
+<img height="38" src="./titulo-projects.svg" alt="PROJECTS"/>
 
 <!-- Troque pelos seus projetos reais. Copie um bloco para adicionar mais. -->
 
@@ -40,6 +76,26 @@
 | [Nome do projeto](https://github.com/gustavopalmentieri/REPOSITORIO) | Explique em uma frase | `C++` |
 | [Nome do projeto](https://github.com/gustavopalmentieri/REPOSITORIO) | Explique em uma frase | `Python` |
 
+---
+
+## 📈 Minha atividade
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopalmentieri&bg_color=0D1117&color=FFFFFF&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Gráfico de atividade"/>
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com/?user=gustavopalmentieri&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
+</p>
+
+<!-- ===== COBRINHA ANIMADA (precisa do arquivo snake.yml) ===== -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake.svg"/>
+    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/>
+  </picture>
+</p>
 
 <!-- ===== RODAPÉ ANIMADO ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4C1D95,100:0D1117&height=120&section=footer&animation=twinkling"/>
