@@ -14,17 +14,6 @@
   <a href="mailto:SEU-EMAIL@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
 </p>
 
----
-
-## 💻 Sobre mim
-
-<!-- ===== TERMINAL ANIMADO ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=16&duration=1500&pause=300&color=A855F7&background=0D1117FF&center=false&vCenter=false&multiline=true&repeat=false&width=620&height=300&lines=gustavo%40dev%3A~%24+.%2Fsobre_mim;----------------------------------;Nome%3A+Gustavo+Palmentieri;Curso%3A+ADS+%28desde+2025%29;Stack%3A+Python%2C+C%2C+JavaScript%2C+Node.js;Web%3A+HTML+e+CSS+%7C+Dados%3A+SQL%2C+SQLite;Tools%3A+Git%2C+GitHub%2C+Jira%2C+Claude;%C3%81gil%3A+Kanban+e+Scrum;Foco%3A+Data+%26+Software+Engineering;Status%3A+em+busca+da+1%C2%AA+oportunidade" alt="Terminal animado"/>
-</p>
-
----
-
 <!-- ===== TÍTULO STACKS (arquivo titulo-stacks.svg) ===== -->
 <img height="38" src="./titulo-stacks.svg" alt="STACKS"/>
 
