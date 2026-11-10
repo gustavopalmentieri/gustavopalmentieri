@@ -21,7 +21,7 @@
      Para trocar para o cromado, troque "./stacks/" por "./stacks-cromado/".
      Para mudar a ordem, mova as linhas <img>. Para remover, apague a linha. -->
 
-<h4 align="center">💻 Programação</h4>
+<h4 align="center" color=purple> Programação</h4>
 <p align="center">
   <img width="52" src="./stacks/python.svg" alt="Python" title="Python"/>
   <img width="52" src="./stacks/c.svg" alt="C" title="C"/>
@@ -29,19 +29,19 @@
   <img width="52" src="./stacks/nodejs.svg" alt="Node.js" title="Node.js"/>
 </p>
 
-<h4 align="center">🌐 Web</h4>
+<h4 align="center"> Web</h4>
 <p align="center">
   <img width="52" src="./stacks/html.svg" alt="HTML" title="HTML"/>
   <img width="52" src="./stacks/css.svg" alt="CSS" title="CSS"/>
 </p>
 
-<h4 align="center">🗄️ Dados</h4>
+<h4 align="center"> Dados</h4>
 <p align="center">
   <img width="52" src="./stacks/sql.svg" alt="SQL" title="SQL"/>
   <img width="52" src="./stacks/sqlite.svg" alt="SQLite" title="SQLite"/>
 </p>
 
-<h4 align="center">🛠️ Ferramentas</h4>
+<h4 align="center"> Ferramentas</h4>
 <p align="center">
   <img width="52" src="./stacks/git.svg" alt="Git" title="Git"/>
   <img width="52" src="./stacks/github.svg" alt="GitHub" title="GitHub"/>
@@ -49,7 +49,7 @@
   <img width="52" src="./stacks/claude.svg" alt="Claude" title="Claude"/>
 </p>
 
-<h4 align="center">📋 Metodologias e gestão</h4>
+<h4 align="center"> Metodologias e gestão</h4>
 <p align="center">
   <img width="52" src="./stacks/jira.svg" alt="Jira" title="Jira"/>
   <img width="52" src="./stacks/kanban.svg" alt="Kanban" title="Kanban"/>
