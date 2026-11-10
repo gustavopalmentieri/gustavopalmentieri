@@ -14,47 +14,11 @@
   <a href="mailto:SEU-EMAIL@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
 </p>
 
-<!-- ===== TÍTULO STACKS (arquivo titulo-stacks.svg) ===== -->
-<img height="38" src="./titulo-stacks.svg" alt="STACKS"/>
+<!-- ===== TÍTULO STACKS (arquivo titulo-stacks.svg) ===== --> 
+<img height="38" src="./titulo-stacks.svg" alt="STACKS"/> 
 
-<!-- ===== STACKS: cada ícone é um arquivo da pasta stacks/ =====
-     Para trocar para o cromado, troque "./stacks/" por "./stacks-cromado/".
-     Para mudar a ordem, mova as linhas <img>. Para remover, apague a linha. -->
-
-<h4 align="center" color=purple> Programação</h4>
-<p align="center">
-  <img width="52" src="./stacks/python.svg" alt="Python" title="Python"/>
-  <img width="52" src="./stacks/c.svg" alt="C" title="C"/>
-  <img width="52" src="./stacks/javascript.svg" alt="JavaScript" title="JavaScript"/>
-  <img width="52" src="./stacks/nodejs.svg" alt="Node.js" title="Node.js"/>
-</p>
-
-<h4 align="center"> Web</h4>
-<p align="center">
-  <img width="52" src="./stacks/html.svg" alt="HTML" title="HTML"/>
-  <img width="52" src="./stacks/css.svg" alt="CSS" title="CSS"/>
-</p>
-
-<h4 align="center"> Dados</h4>
-<p align="center">
-  <img width="52" src="./stacks/sql.svg" alt="SQL" title="SQL"/>
-  <img width="52" src="./stacks/sqlite.svg" alt="SQLite" title="SQLite"/>
-</p>
-
-<h4 align="center"> Ferramentas</h4>
-<p align="center">
-  <img width="52" src="./stacks/git.svg" alt="Git" title="Git"/>
-  <img width="52" src="./stacks/github.svg" alt="GitHub" title="GitHub"/>
-  <img width="52" src="./stacks/vscode.svg" alt="VS Code" title="VS Code"/>
-  <img width="52" src="./stacks/claude.svg" alt="Claude" title="Claude"/>
-</p>
-
-<h4 align="center"> Metodologias e gestão</h4>
-<p align="center">
-  <img width="52" src="./stacks/jira.svg" alt="Jira" title="Jira"/>
-  <img width="52" src="./stacks/kanban.svg" alt="Kanban" title="Kanban"/>
-  <img width="52" src="./stacks/scrum.svg" alt="Scrum" title="Scrum"/>
-</p>
+<!-- ===== STACKS em tabela (ícones do skillicons.dev + pasta icones/ para Jira, Kanban, Scrum e Claude) ===== --> 
+<table align="center"> <tr> <th align="center">Área</th> <th align="center">Tecnologias</th> </tr> <tr> <td align="center"><b>Programação</b></td> <td align="center"> <img height="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" title="Python"/> <img height="48" src="https://skillicons.dev/icons?i=c&theme=dark" alt="C" title="C"/> <img height="48" src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" title="JavaScript"/> <img height="48" src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" title="Node.js"/> </td> </tr> <tr> <td align="center"><b>Web</b></td> <td align="center"> <img height="48" src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" title="HTML"/> <img height="48" src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" title="CSS"/> </td> </tr> <tr> <td align="center"><b>Dados</b></td> <td align="center"> <img height="48" src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL" title="SQL"/> <img height="48" src="https://skillicons.dev/icons?i=sqlite&theme=dark" alt="SQLite" title="SQLite"/> </td> </tr> <tr> <td align="center"><b>Ferramentas</b></td> <td align="center"> <img height="48" src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" title="Git"/> <img height="48" src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" title="GitHub"/> <img height="48" src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" title="VS Code"/> <img height="48" src="./icones/claude.svg" alt="Claude" title="Claude"/> </td> </tr> <tr> <td align="center"><b>Metodologias &amp; Gestão</b></td> <td align="center"> <img height="48" src="./icones/jira.svg" alt="Jira" title="Jira"/> <img height="48" src="./icones/kanban.svg" alt="Kanban" title="Kanban"/> <img height="48" src="./icones/scrum.svg" alt="Scrum" title="Scrum"/> </td> </tr> </table>
 
 ---
 
