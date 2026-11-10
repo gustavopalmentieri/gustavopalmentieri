@@ -37,23 +37,5 @@
 
 ---
 
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=gustavopalmentieri&bg_color=0D1117&color=FFFFFF&line=A855F7&point=FFFFFF&area=true&area_color=A855F7&hide_border=true" alt="Gráfico de atividade"/>
-</p>
-
-<p align="center">
-  <img height="165" src="https://streak-stats.demolab.com/?user=gustavopalmentieri&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7&hide_border=true&locale=pt_BR" alt="Sequência de contribuições"/>
-</p>
-
-<!-- ===== COBRINHA ANIMADA (precisa do arquivo snake.yml) ===== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake.svg"/>
-    <img alt="Cobrinha comendo as contribuições" src="https://raw.githubusercontent.com/gustavopalmentieri/gustavopalmentieri/output/github-snake-dark.svg"/>
-  </picture>
-</p>
-
 <!-- ===== RODAPÉ ANIMADO ===== -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:4C1D95,100:0D1117&height=120&section=footer&animation=twinkling"/>
