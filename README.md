@@ -14,6 +14,8 @@
   <a href="mailto:SEU-EMAIL@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
 </p>
 
+---
+
 <!-- ===== TÍTULO STACKS (arquivo titulo-stacks.svg) ===== --> 
 <img height="38" src="./titulo-stacks.svg" alt="STACKS"/> 
 
