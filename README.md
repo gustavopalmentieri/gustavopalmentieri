@@ -10,7 +10,7 @@
 
 <!-- ===== CONTATOS (botões roxo fosco brilhante: arquivos botao-linkedin.svg e botao-gmail.svg) ===== -->
 <p align="center">
-  < href="https://www.linkedin.com/in/gustavo-jesus-palmentieri/"><img height="34" src="./botao-linkedin.svg" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/gustavo-jesus-palmentieri/"><img height="34" src="./botao-linkedin.svg" alt="LinkedIn"/></a>
   <a href="mailto:gustavoo.palmentieri@gmail.com"><img height="34" src="./botao-gmail.svg" alt="Gmail"/></a>
 </p>
 
